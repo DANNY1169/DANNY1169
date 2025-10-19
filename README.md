@@ -6,23 +6,6 @@
 
 </div>
 
----
-
-<div align='center' width='100%'>
-  <img width='48%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNY1169&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='48%' href="https://github.com/DANNY1169?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=DANNY1169&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@DANNY1169's trophy stats"/>
-  </a>
-</div>
-
-<div align="center">
-  
-### 🚀 Passionate about creating innovative solutions with cutting-edge technologies
-  
-</div>
-
----
-
 ## 💬 Tech Stack Overview 
 
 💧 FrontEnd: React, Angular, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
